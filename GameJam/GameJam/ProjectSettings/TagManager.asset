@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartTrigger
+  - Richag
+  - Door
+  - 3_1
+  - Ladder
+  - 3_2
+  - 3
+  - RoomManager
+  - 3_3
+  - FireBall
+  - Monster
+  - 1_1
+  - 1_2
+  - 4_1
+  - 4
+  - Girl
+  - TrueFlag
+  - FakeFlag
+  - MonsterFireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraMovement">
+    <Position X="9.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAhAAAAAAAAAAACAAAEAAAAAAAAAAAAAECAA=</HashCode>
+      <FileName>Assets\Scripts\CameraMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChooseCar">
+    <Position X="9.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAIAAgAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChooseCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gravity">
+    <Position X="0.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAiAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Gravity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marker">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Marker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeteorFall">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAiAAIAAAAAAAAAAAAAAAAAEMAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\MeteorFall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeteorGenerator">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MeteorGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movement">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAiAAAAAACAAAAAAAABAAAgIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanetSizer">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlanetSizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveScore">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAgAgEACQAAAAAJAAEEAAoACABAAACAAUACGAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIControllerInMenu">
+    <Position X="0.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAgAAAAAAAAAAAAAoAAAAAAAAgABAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\UIControllerInMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
